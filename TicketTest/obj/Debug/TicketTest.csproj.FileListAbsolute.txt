@@ -1,0 +1,10 @@
+c:\users\kiler\documents\visual studio 2013\Projects\TicketTest\TicketTest\bin\Debug\TicketTest.exe.config
+c:\users\kiler\documents\visual studio 2013\Projects\TicketTest\TicketTest\bin\Debug\TicketTest.exe
+c:\users\kiler\documents\visual studio 2013\Projects\TicketTest\TicketTest\bin\Debug\TicketTest.pdb
+c:\users\kiler\documents\visual studio 2013\Projects\TicketTest\TicketTest\obj\Debug\TicketTest.exe
+c:\users\kiler\documents\visual studio 2013\Projects\TicketTest\TicketTest\obj\Debug\TicketTest.pdb
+E:\个人框架\TicketTest\TicketTest\bin\Debug\TicketTest.exe.config
+E:\个人框架\TicketTest\TicketTest\obj\Debug\TicketTest.exe
+E:\个人框架\TicketTest\TicketTest\obj\Debug\TicketTest.pdb
+E:\个人框架\TicketTest\TicketTest\bin\Debug\TicketTest.exe
+E:\个人框架\TicketTest\TicketTest\bin\Debug\TicketTest.pdb
